@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bye there and here is an edit :)
+          This is Gunjan React page from Feature Branch in GitHub!
         </p>
         <a
           className="App-link"
